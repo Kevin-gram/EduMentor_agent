@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.venv
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Model files
+models/
+
+# Dependency files
+*.egg-info/
+*.lock
+
+# Build files
+build/
+dist/
+*.spec
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Generated files
+*.pickle
+*.h5
+*.ckpt
+
+# Ignore requirements.txt if generated dynamically
+!requirements.txt
